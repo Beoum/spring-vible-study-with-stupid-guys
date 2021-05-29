@@ -1,1 +1,6 @@
-# spring-vible-study-with-stupid-guys
+# 토비의 스프링 독서 스터디 저장소
+
+## stupid guys information
+- 김태욱: 초 고연봉자
+- 오길환: 황제형 백수(곧 초고연봉)
+- 배범희: 응애 코드몽키
